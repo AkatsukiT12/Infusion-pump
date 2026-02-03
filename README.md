@@ -1,4 +1,20 @@
-# Unified IV Infusion Pump System
+<div align="center">
+
+<img src="akatsuki_logo.png" alt="Akatsuki Medical Logo" width="120" height="120"/>
+
+# 暁 IV Infusion Pump System
+
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+
+</div>
+
+---
+
+# Demo
 
 [▶️ **Watch Demo Video**](https://drive.google.com/file/d/1-zoyE7b9eoAHnOaxktvvvHKQ4us8PItz/view?usp=sharing)
 
